@@ -1,0 +1,11 @@
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Core\bin\Debug\net8.0\TechnicalExercise.Core.deps.json
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Core\bin\Debug\net8.0\TechnicalExercise.Core.dll
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Core\bin\Debug\net8.0\TechnicalExercise.Core.pdb
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Core\obj\Debug\net8.0\TechnicalExercise.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Core\obj\Debug\net8.0\TechnicalExercise.Core.AssemblyInfoInputs.cache
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Core\obj\Debug\net8.0\TechnicalExercise.Core.AssemblyInfo.cs
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Core\obj\Debug\net8.0\TechnicalExercise.Core.csproj.CoreCompileInputs.cache
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Core\obj\Debug\net8.0\TechnicalExercise.Core.dll
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Core\obj\Debug\net8.0\refint\TechnicalExercise.Core.dll
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Core\obj\Debug\net8.0\TechnicalExercise.Core.pdb
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Core\obj\Debug\net8.0\ref\TechnicalExercise.Core.dll

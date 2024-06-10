@@ -1,0 +1,17 @@
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\bin\Debug\net8.0\TechnicalExercise.Application.deps.json
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\bin\Debug\net8.0\TechnicalExercise.Application.dll
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\bin\Debug\net8.0\TechnicalExercise.Application.pdb
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\bin\Debug\net8.0\TechnicalExercise.Core.dll
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\bin\Debug\net8.0\TechnicalExercise.Infrastructure.dll
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\bin\Debug\net8.0\TechnicalExercise.Core.pdb
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\bin\Debug\net8.0\TechnicalExercise.Infrastructure.pdb
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\obj\Debug\net8.0\TechnicalExercise.Application.csproj.AssemblyReference.cache
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\obj\Debug\net8.0\TechnicalExercise.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\obj\Debug\net8.0\TechnicalExercise.Application.AssemblyInfoInputs.cache
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\obj\Debug\net8.0\TechnicalExercise.Application.AssemblyInfo.cs
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\obj\Debug\net8.0\TechnicalExercise.Application.csproj.CoreCompileInputs.cache
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\obj\Debug\net8.0\Technica.21C309D3.Up2Date
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\obj\Debug\net8.0\TechnicalExercise.Application.dll
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\obj\Debug\net8.0\refint\TechnicalExercise.Application.dll
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\obj\Debug\net8.0\TechnicalExercise.Application.pdb
+C:\Users\alpha\source\repos\TechnicalExercise\TechnicalExercise.Application\obj\Debug\net8.0\ref\TechnicalExercise.Application.dll
